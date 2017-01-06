@@ -1,5 +1,7 @@
 /train
 /test
 /.idea
+/train_size
+test_py.py
 *.csv
 *.pyc
